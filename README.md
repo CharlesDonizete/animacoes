@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 NodeJS - 18.12.1
 Angular CLI - 15.1.1
+
+Site com vários models de ease.
+https://easings.net/#
