@@ -37,9 +37,9 @@
     },
     {
       "id": 7,
-      "descricao": "Ir jogar bola",
-      "statusFinalizado": true,
-      "categoria": "Casa",
+      "descricao": "Estudar Angular",
+      "statusFinalizado": false,
+      "categoria": "Estudos",
       "prioridade": "Alta"
     }
   ]
